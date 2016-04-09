@@ -1,0 +1,17 @@
+{
+  "name": "easthing/phonelocation",
+  "license": "MIT",
+  "description": "手机归属地查询",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "easthing",
+      "email": "easthing@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Easthing\\": "src/"
+    }
+  }
+}
